@@ -10,7 +10,7 @@ https://github.com/Diedinium/Payroll-Budget-Calculator
 
 ## Example
 
-![](https://media3.giphy.com/media/ahLodvJMpGWGPGcdwJ/giphy.gif)
+![](https://i.imgur.com/afiioG2.mp4)
 
 ## Compatibility notes
 

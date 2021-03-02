@@ -27,7 +27,7 @@ void MenuContainer::Execute()
 				std::cout << "\t" << item->ItemText() << "\n";
 			}
 			});
-		InputValidator::GetControlChar(key, _hInputConsole);
+		while (!InputValidator::GetControlChar(key, _hInputConsole));
 		if (key.wVirtualKeyCode == VK_DOWN) {
 			if (_iHighlightedIndex < (int)_vecMenuItems.size() - 1) _iHighlightedIndex++;
 		}
